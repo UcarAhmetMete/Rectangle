@@ -1,0 +1,10 @@
+trya 16.00
+ktkr 5.25
+rct2 5.25
+abcd 4.50
+abcd 4.00
+xxyy 3.00
+xxyy -1.50
+trya -2.50
+ktkr -3.75
+rct2 -7.00
